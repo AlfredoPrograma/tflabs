@@ -1,0 +1,12 @@
+# Local .terraform directory
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Secrets
+*.tfvars
+
+# Crash log
+crash.log
