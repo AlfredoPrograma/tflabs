@@ -6,7 +6,7 @@ The labs are organized to cover a broad spectrum of AWS services and Terraform f
 
 - [x] **EC2 Instance Deployment**: Provision a basic EC2 instance with custom configurations.
 - [x] **S3 Bucket Configuration and Replication**: Create and manage S3 buckets with versioning and cross-region replication.
-- [ ] **VPC Setup**: Design a Virtual Private Cloud with public and private subnets, route tables, and gateways.
+- [x] **VPC Setup**: Design a Virtual Private Cloud with public and private subnets, route tables, and gateways.
 - [ ] **IAM Management**: Implement IAM users, groups, roles, and policies for access control.
 - [ ] **RDS Instance Provisioning**: Deploy a managed relational database with parameter groups and subnet configurations.
 - [ ] **Auto Scaling and Load Balancing**: Configure Auto Scaling Groups with Application Load Balancers for high availability.
