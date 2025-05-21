@@ -5,7 +5,7 @@ This repository is a curated collection of hands-on labs demonstrating the use o
 The labs are organized to cover a broad spectrum of AWS services and Terraform functionalities:
 
 - [x] **EC2 Instance Deployment**: Provision a basic EC2 instance with custom configurations.
-- [ ] **S3 Bucket Configuration**: Create and manage S3 buckets with versioning and lifecycle policies.
+- [x] **S3 Bucket Configuration and Replication**: Create and manage S3 buckets with versioning and cross-region replication.
 - [ ] **VPC Setup**: Design a Virtual Private Cloud with public and private subnets, route tables, and gateways.
 - [ ] **IAM Management**: Implement IAM users, groups, roles, and policies for access control.
 - [ ] **RDS Instance Provisioning**: Deploy a managed relational database with parameter groups and subnet configurations.
@@ -13,7 +13,7 @@ The labs are organized to cover a broad spectrum of AWS services and Terraform f
 - [ ] **Serverless Application**: Set up AWS Lambda functions integrated with API Gateway for a serverless architecture.
 - [ ] **Messaging Services**: Implement SNS topics and SQS queues for decoupled communication.
 - [ ] **Monitoring and Alerts**: Use CloudWatch to monitor resources and set up alarms for proactive notifications.
-- [ ]  **Reusable Modules**: Develop and utilize Terraform modules for consistent and reusable infrastructure components.
+- [ ] **Reusable Modules**: Develop and utilize Terraform modules for consistent and reusable infrastructure components.
 
 Each lab includes detailed instructions, Terraform configuration files, and cleanup procedures to ensure a smooth learning experience.
 
