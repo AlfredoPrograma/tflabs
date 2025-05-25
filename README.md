@@ -9,7 +9,7 @@ The labs are organized to cover a broad spectrum of AWS services and Terraform f
 - [x] **VPC Setup**: Design a Virtual Private Cloud with public and private subnets, route tables, and gateways.
 - [x] **IAM Management**: Implement IAM users, groups, roles, and policies for access control.
 - [x] **Auto Scaling and Load Balancing**: Configure Auto Scaling Groups with Application Load Balancers for high availability.
-- [ ] **Serverless Application**: Set up AWS Lambda functions integrated with API Gateway for a serverless architecture.
+- [x] **Serverless Application**: Set up AWS Lambda functions integrated with API Gateway for a serverless architecture.
 - [ ] **Messaging Services**: Implement SNS topics and SQS queues for decoupled communication.
 - [ ] **Monitoring and Alerts**: Use CloudWatch to monitor resources and set up alarms for proactive notifications.
 - [ ] **Reusable Modules**: Develop and utilize Terraform modules for consistent and reusable infrastructure components.
